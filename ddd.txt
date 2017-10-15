@@ -1,2 +1,2 @@
-Git is a lalala version control system.
-Git is free software. 
+Git as a lalala version control system.
+Git as free software. 
