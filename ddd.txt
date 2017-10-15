@@ -1,3 +1,4 @@
 Git as a lalala version control system.
 Git as free software. 
 wwwooo
+Git tracks changes.
